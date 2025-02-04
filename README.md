@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning TypeScript<br>🎯 Goals: Become full stack Developer by 2025<br>🎲 Fun fact: I love to sing</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next.js<br>🎯 Goals: Become full stack Developer by 2025<br>🎲 Fun fact: I love to sing</p>
 
 ###
 
